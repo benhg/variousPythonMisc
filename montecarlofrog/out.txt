@@ -1,0 +1,72 @@
+If the bird jumps 0 times, it will land in the original circle  approximately 1000000 times, representing a success rate of 1.0
+1000000 trials of 0 jumps took 11.3045940399 seconds
+If the bird jumps 1 times, it will land in the original circle  approximately 1000000 times, representing a success rate of 1.0
+1000000 trials of 1 jumps took 42.1493208408 seconds
+If the bird jumps 2 times, it will land in the original circle  approximately 462677 times, representing a success rate of 0.462677
+1000000 trials of 2 jumps took 74.208039999 seconds
+If the bird jumps 3 times, it will land in the original circle  approximately 364970 times, representing a success rate of 0.36497
+1000000 trials of 3 jumps took 101.70569396 seconds
+If the bird jumps 4 times, it will land in the original circle  approximately 291080 times, representing a success rate of 0.29108
+1000000 trials of 4 jumps took 123.949840784 seconds
+If the bird jumps 5 times, it will land in the original circle  approximately 244431 times, representing a success rate of 0.244431
+1000000 trials of 5 jumps took 156.14360404 seconds
+If the bird jumps 6 times, it will land in the original circle  approximately 210053 times, representing a success rate of 0.210053
+1000000 trials of 6 jumps took 170.782299995 seconds
+If the bird jumps 7 times, it will land in the original circle  approximately 184163 times, representing a success rate of 0.184163
+1000000 trials of 7 jumps took 216.871890068 seconds
+If the bird jumps 8 times, it will land in the original circle  approximately 163723 times, representing a success rate of 0.163723
+1000000 trials of 8 jumps took 245.619863033 seconds
+If the bird jumps 9 times, it will land in the original circle  approximately 147738 times, representing a success rate of 0.147738
+1000000 trials of 9 jumps took 267.457747936 seconds
+If the bird jumps 11 times, it will land in the original circle  approximately 123576 times, representing a success rate of 0.123576
+1000000 trials of 11 jumps took 303.743592024 seconds
+If the bird jumps 10 times, it will land in the original circle  approximately 134798 times, representing a success rate of 0.134798
+1000000 trials of 10 jumps took 304.287440062 seconds
+If the bird jumps 12 times, it will land in the original circle  approximately 114151 times, representing a success rate of 0.114151
+1000000 trials of 12 jumps took 355.579061031 seconds
+If the bird jumps 13 times, it will land in the original circle  approximately 105895 times, representing a success rate of 0.105895
+1000000 trials of 13 jumps took 374.906883001 seconds
+If the bird jumps 14 times, it will land in the original circle  approximately 98994 times, representing a success rate of 0.098994
+1000000 trials of 14 jumps took 396.004082203 seconds
+If the bird jumps 16 times, it will land in the original circle  approximately 87091 times, representing a success rate of 0.087091
+1000000 trials of 16 jumps took 400.838423967 seconds
+If the bird jumps 15 times, it will land in the original circle  approximately 93333 times, representing a success rate of 0.093333
+1000000 trials of 15 jumps took 409.083141804 seconds
+If the bird jumps 17 times, it will land in the original circle  approximately 82753 times, representing a success rate of 0.082753
+1000000 trials of 17 jumps took 432.966078043 seconds
+If the bird jumps 19 times, it will land in the original circle  approximately 74169 times, representing a success rate of 0.074169
+1000000 trials of 19 jumps took 464.27035594 seconds
+If the bird jumps 18 times, it will land in the original circle  approximately 78556 times, representing a success rate of 0.078556
+1000000 trials of 18 jumps took 464.692061901 seconds
+If the bird jumps 23 times, it will land in the original circle  approximately 62036 times, representing a success rate of 0.062036
+1000000 trials of 23 jumps took 476.390130997 seconds
+If the bird jumps 20 times, it will land in the original circle  approximately 70727 times, representing a success rate of 0.070727
+1000000 trials of 20 jumps took 508.922109127 seconds
+If the bird jumps 21 times, it will land in the original circle  approximately 67639 times, representing a success rate of 0.067639
+If the bird jumps 22 times, it will land in the original circle  approximately 64720 times, representing a success rate of 0.06472
+If the bird jumps 30 times, it will land in the original circle  approximately 48015 times, representing a success rate of 0.048015
+If the bird jumps 34 times, it will land in the original circle  approximately 42601 times, representing a success rate of 0.042601
+If the bird jumps 24 times, it will land in the original circle  approximately 59749 times, representing a success rate of 0.059749
+If the bird jumps 26 times, it will land in the original circle  approximately 54799 times, representing a success rate of 0.054799
+If the bird jumps 25 times, it will land in the original circle  approximately 57238 times, representing a success rate of 0.057238
+If the bird jumps 27 times, it will land in the original circle  approximately 53178 times, representing a success rate of 0.053178
+If the bird jumps 28 times, it will land in the original circle  approximately 51680 times, representing a success rate of 0.05168
+If the bird jumps 29 times, it will land in the original circle  approximately 49446 times, representing a success rate of 0.049446
+If the bird jumps 32 times, it will land in the original circle  approximately 45186 times, representing a success rate of 0.045186
+If the bird jumps 33 times, it will land in the original circle  approximately 43773 times, representing a success rate of 0.043773
+If the bird jumps 31 times, it will land in the original circle  approximately 46544 times, representing a success rate of 0.046544
+If the bird jumps 37 times, it will land in the original circle  approximately 39263 times, representing a success rate of 0.039263
+If the bird jumps 35 times, it will land in the original circle  approximately 41603 times, representing a success rate of 0.041603
+If the bird jumps 36 times, it will land in the original circle  approximately 40155 times, representing a success rate of 0.040155
+If the bird jumps 38 times, it will land in the original circle  approximately 38702 times, representing a success rate of 0.038702
+If the bird jumps 39 times, it will land in the original circle  approximately 37237 times, representing a success rate of 0.037237
+If the bird jumps 41 times, it will land in the original circle  approximately 35562 times, representing a success rate of 0.035562
+If the bird jumps 40 times, it will land in the original circle  approximately 36406 times, representing a success rate of 0.036406
+If the bird jumps 42 times, it will land in the original circle  approximately 34820 times, representing a success rate of 0.03482
+If the bird jumps 46 times, it will land in the original circle  approximately 31743 times, representing a success rate of 0.031743
+If the bird jumps 43 times, it will land in the original circle  approximately 34175 times, representing a success rate of 0.034175
+If the bird jumps 44 times, it will land in the original circle  approximately 33072 times, representing a success rate of 0.033072
+If the bird jumps 45 times, it will land in the original circle  approximately 32636 times, representing a success rate of 0.032636
+If the bird jumps 47 times, it will land in the original circle  approximately 31405 times, representing a success rate of 0.031405
+If the bird jumps 48 times, it will land in the original circle  approximately 30437 times, representing a success rate of 0.030437
+If the bird jumps 49 times, it will land in the original circle  approximately 29762 times, representing a success rate of 0.029762
